@@ -1,0 +1,13 @@
+"D:\IAR Systems\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\arm\bin\armjlink2.dll" 
+
+"D:\IAR Systems\LPLD_OSKinetis_V3\project\20180818MarkFourMaster\iar\RAM\Exe\20180818MarkFourMaster_K60DZ10.out" 
+
+--plugin "D:\IAR Systems\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\arm\config\debugger\Freescale\Kxx.dmac" 
+
+
+
+
